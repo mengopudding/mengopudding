@@ -1,4 +1,6 @@
-![Alt Text](https://tenor.com/9p8i.gif)
+
+<img src="https://tenor.com/9p8i.gif">
+
 
 <h3 align="center"> Howdy howdy, I'm Meng 🤠 </h3>
 
