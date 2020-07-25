@@ -1,4 +1,4 @@
-<img src="https://gfycat.com/bronzeilliteratefirecrest" height="150" width="150">
+<img src="https://gfycat.com/bronzeilliteratefirecrest">
 
 
 <h3 align="center"> Howdy howdy, I'm Meng 🤠 </h3>
@@ -15,3 +15,5 @@
 #### Get in touch 👋
 - LinkedIn: https://www.linkedin.com/in/mengopudding <br />
 - Personal Site: https://www.mengopudding.com/ <br />
+
+<img src="https://gfycat.com/bronzeilliteratefirecrest">
