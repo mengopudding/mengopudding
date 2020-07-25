@@ -1,12 +1,12 @@
 <h1 align="center"> Howdy howdy, I'm Meng 👋 </h1>
 
-<p> 👨‍💻 I'm a Software Engineer at [Xplor](https://ourxplor.com/).</p>
-<p> 🤓 I've been part of the [cs in schools](https://csinschools.com/) programme where I taught two terms of Python.</p>
-<p> 🚀 Currently relentlessly driving to make educatation great with Elixir && JavaScript </p>
+👨‍💻 I'm a Software Engineer at [Xplor](https://ourxplor.com/).
+🤓 I've been part of the [cs in schools](https://csinschools.com/) programme where I taught two terms of Python.
+🚀 Currently relentlessly driving to make educatation great with Elixir && JavaScript
 
 <h3> Get in touch </h3>
-<p> - [LinkedIn](https://www.linkedin.com/in/mengopudding)</p>
-<p> - [Personal Site](https://www.mengopudding.com/)</p>
+- [LinkedIn](https://www.linkedin.com/in/mengopudding)
+- [Personal Site](https://www.mengopudding.com/)
 
 <!--
 **mengopudding/mengopudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
