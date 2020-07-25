@@ -15,4 +15,4 @@
 - LinkedIn: https://www.linkedin.com/in/mengopudding <br />
 - Personal Site: https://www.mengopudding.com/ <br />
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="50%" width="50%">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="50" width="50">
