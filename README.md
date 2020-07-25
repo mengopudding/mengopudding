@@ -1,4 +1,4 @@
-<img src="https://images8.alphacoders.com/939/939716.png" height="300">
+<img src="https://images8.alphacoders.com/939/939716.png" height="200" width="400">
 
 <h3 align="left"> Howdy howdy, I'm Meng 🤠 </h3>
 
