@@ -1,5 +1,4 @@
-<img src="https://gfycat.com/bronzeilliteratefirecrest">
-
+<img src="https://images8.alphacoders.com/939/939716.png">
 
 <h3 align="center"> Howdy howdy, I'm Meng 🤠 </h3>
 
