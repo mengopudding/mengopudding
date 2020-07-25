@@ -1,6 +1,10 @@
 <h1 align="center"> Howdy howdy, I'm Meng 👋 </h1>
 
-👨‍💻 I'm a Software Engineer at <span style="color:blue">[Xplor](https://ourxplor.com/)</span>.<br />
+<style>
+    a { color: #FFA500 } /* CSS link color */
+</style>
+
+<p> 👨‍💻 I'm a Software Engineer at <a href="https://ourxplor.com/">Xplor</a>.</p> <br />
 🤓 I've been part of the [cs in schools](https://csinschools.com/) programme where I taught two terms of Python.<br />
 🚀 Currently relentlessly driving to make educatation great with Elixir && JavaScript.<br />
 
