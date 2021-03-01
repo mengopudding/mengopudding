@@ -7,4 +7,3 @@
 
 #### Get in touch 👋
 - LinkedIn: https://www.linkedin.com/in/mengopudding <br />
-- Personal Site: https://www.mengopudding.com/ <br />
